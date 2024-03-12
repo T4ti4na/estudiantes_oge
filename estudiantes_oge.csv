@@ -1,4 +1,4 @@
-Codigo;Alum;Curso;Veces desaprobadas;Nota_baja;Nota_alta;tipo_estudiante;Prom_semestre;prom_alumnos;sexo_estudiante;edad;Departamento;gatos_promedio;inversion_escuela
+Codigo;Alum;Curso;Veces desaprobadas;Nota_baja;Nota_alta;Tipo_estudiante;Prom_semestre;Prom general_alumnos;sexo_estudiante;Edad;Departamento;Gastos_prom;Inversion_escuela
 231.1508.042;ABAD CACERES ANELA GIORGINA;TALLER DE COMUNICACIÓN ORAL Y ESCRITA;2;17;17;Exepcional;17;562;M;26;ANCASH;1916;7084
 231.1508.042;ABAD CACERES ANELA GIORGINA;TALLER DE DESARROLLO PERSONAL EN LOS SERVICIOS TURÍSTICOS;3;14;14;Exepcional;14;372;F;32;ANCASH;1623;7056
 231.1508.042;ABAD CACERES ANELA GIORGINA;TALLER DE ACTIVIDADES FORMATIVAS;1;17;17;Regular;17;381;F;34;ANCASH;2428;5274
